@@ -37,6 +37,7 @@
 *.booproj
 *.svd
 *.pdb
+*.png
 *.mdb
 *.opendb
 *.VC.db
